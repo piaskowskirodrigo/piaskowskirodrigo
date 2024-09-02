@@ -5,7 +5,6 @@ Software developer
 ------------------
 
 * 🌍  I'm based in Santa Catarina
-* <! -- 🖥️  See my portfolio at [MyPortifolio](http://piaskowskirodrigo.github.io/) -->
 * ✉️  You can contact me at [piaskowskirodrigo@gmail.com](mailto:piaskowskirodrigo@gmail.com)
 * 🧠  I'm learning Spring and Angular
 
